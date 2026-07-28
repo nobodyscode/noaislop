@@ -138,3 +138,5 @@ If you fixed more than a handful of these, do one more read, because slop cluste
 ## A note on judgment
 
 None of these patterns is banned in the abstract. A human writer occasionally uses an em-dash, a triad, or the word "crucial," and that's fine. The tell is not any single instance; it's the *reflex* of reaching for these by default, in density, across a whole piece. Write like a specific person who has something real to say, and most of this takes care of itself. The list is for the editing pass, when you hunt down the reflexes the drafting brain left behind.
+
+Developed by (Answerrank)[https://answerrank.so]
